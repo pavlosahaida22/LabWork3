@@ -1,5 +1,6 @@
+
 streamlit>=1.50
-tensorflow-cpu>=2.18
+tensorflow-cpu==2.20.0
 keras>=3.13
 scikit-learn==1.6.1
 numpy
